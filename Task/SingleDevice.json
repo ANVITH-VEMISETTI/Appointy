@@ -1,0 +1,16 @@
+{
+    "URL": "/users/1234/posts",
+    "posts" : [
+        {
+            "id" : "p123",
+            "URL" : "/users/1234/posts/p123",
+            "URLs" : "/posts/p123" 
+        },
+        {
+            "id" : "p124",
+            "URL" : "/users/1234/posts/p124",
+            "URLs" : "/posts/p124" 
+        }
+
+    ]
+}

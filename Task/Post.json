@@ -1,0 +1,23 @@
+{
+    "id" : 1234,
+    "posts" : [
+        {
+            "URL" : "/posts"
+        },
+        {
+            "postid" : "P123",
+            "Caption" : "No caption needed",
+            "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Finstagram-app&psig=AOvVaw12IbSyzhQdiwknrInuQpqd&ust=1633877806398000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPji5aPLvfMCFQAAAAAdAAAAABAD",
+            "Timestamp" : "2019-10-09T22:17:18",
+            "URL" : "/posts/p123"
+        },
+        {
+            "postid" : "P124",
+            "Caption" : "No caption needed",
+            "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Finstagram-app&psig=AOvVaw12IbSyzhQdiwknrInuQpqd&ust=1633877806398000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPji5aPLvfMCFQAAAAAdAAAAABAD",
+            "Timestamp" : "2019-10-09T24:12:19",
+            "URL" : "/posts/p124"
+        }
+    ],
+    "URL" : "/users/1234"
+}

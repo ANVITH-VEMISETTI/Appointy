@@ -1,0 +1,20 @@
+{
+    "Configurations" : [
+        {
+            "postid" : "p123",
+            "URL" : "/posts/p123"
+        },
+        {
+            "postid" : "p124",
+            "URL" : "/posts/p124"
+        },
+        {
+            "postid" : "p256",
+            "URL" : "/posts/p256"
+        },
+        {
+            "postid" : "p122",
+            "URL" : "/posts/p122"
+        }
+    ]
+}
